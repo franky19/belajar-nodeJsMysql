@@ -8,4 +8,4 @@ npm install mysql ini berfungsi untuk menginstall node modules yang akan digunak
 
 2. node "nama file javascript"
 pada bagian ini pengguna dapat melakukan testing apakah sintaks sql telah dieksekusi dengan baik atau tidak,
-contoh node dbConfig.js, output connected!
+contoh node dbConfig.js, output connect
