@@ -1,4 +1,4 @@
-# belajar-RestAPI
+# belajar-nodejs + mysql
 akun untuk belajar membuat rest API dengan menggunakan nodejs + mysql
 
 #urutan penggunaan repository
